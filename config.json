@@ -1,0 +1,7 @@
+{
+    "discord_token": "NDA0NjY3MzEzMDE1NjE5NTg1.DUZNbg.BREOpxZ1mkVaOLRlvGrCFgNYiYo",
+    "genius_headers": {"Authorization": "Bearer 5iAI6UroGRooE-NyLS72-KQgKxrDwTHhwI7E9MEoYuluMN5Vw0saEKVsiwGmA1V0"},
+    "prefix": "x",
+    "description": "A simple Discord written in Python. Contrary to the name, bot is not what you're thinking it is.",
+    "cogs":["lyrics","reddit","football","events"]
+}
